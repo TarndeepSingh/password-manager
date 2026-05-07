@@ -24,7 +24,5 @@ architecture, exception handling, and clean documentation.
 - JSON (Storage)
 - OOP Design Principles
 
----
 
-## 📂 Project Structure
 
